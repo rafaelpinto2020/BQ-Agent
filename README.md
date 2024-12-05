@@ -27,11 +27,11 @@ SQL Talk with BigQuery is a chatbot application designed to interact with BigQue
    cd sql-talk-with-bigquery
 
 2. Install dependencies:
-
+```bash
 pip install -r requirements.txt
 
 3. Set up Google Cloud credentials:
-
+```bash
 export GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/service-account-key.json"
 
 ### Configuration
